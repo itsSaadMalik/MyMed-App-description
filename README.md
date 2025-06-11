@@ -6,4 +6,4 @@
  This revolutionizes the medication system by digitizing the entire process from prescription writing to sharing with patients and setting medication reminders—all within a single app.<br>
 
 <h2>Screen shots </h2>
-<h3>Cannot show as its quite ugly 🤢and under re-development🛠</h3>
+<h3>Cannot show as its quite ugly 🤢 and under re-development🛠</h3>
